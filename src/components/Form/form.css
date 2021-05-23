@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&family=Playball&display=swap');
+.choose{
+    margin-left: 60%;
+    font-family: 'Playball', cursive;
+}
+input{
+    width: 300px;
+    height: 40px;
+    font-family: 'Playball', cursive;
+    border-radius: 60px;
+    outline: none;
+    margin-left: 10%;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 5%;
+    
+}
+.search{
+    width: 130px;
+    height: 40px;
+    font-family: 'Playball', cursive;
+    border-radius: 60px;
+    outline: none;
+    margin-left: 50%;
+    font-size: 20px;
+    font-weight: 700;
+}
+.scontainer{
+    display: flex;
+}

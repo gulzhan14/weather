@@ -1,0 +1,13 @@
+html, body{
+    background: url(https://www.wallpapers4u.org/wp-content/uploads/flamingo_flying_birds_sky_clouds_52960_1920x1080.jpg) fixed no-repeat;
+    background-size: cover;
+}
+.container{
+    width: 40%;
+    border-radius: 20%;
+    font-family: 'Playball', cursive;
+    margin-top: 5%;
+    margin-left: 60%;
+    font-weight: 700;
+    font-size: 20px;
+}
